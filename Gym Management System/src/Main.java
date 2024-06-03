@@ -46,6 +46,7 @@ class Main
 
 class Login extends JFrame implements ActionListener
 {
+    //Some additional features
 
     JLabel User = new JLabel("User Name");
     JLabel Password = new JLabel("Password");
